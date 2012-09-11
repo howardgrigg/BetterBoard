@@ -24,7 +24,7 @@ Some of the built in features:
   - Visit http://yoursite.com/dev/build
   
 ## ScreenShots
-![Week Page](github/Week-Page.jpg "Week Page")
-![Readings Tab](github/Readings.jpg "Readings Tab")
-![Quiz Tab](github/Questions.jpg "Quiz Tab")
-![Add Quiz Question](github/Add-Question.jpg "Add Quiz Question")
+![Week Page](https://raw.github.com/howardgrigg/BetterBoard/master/github/Week%20Page.jpg "Week Page")
+![Readings Tab](https://raw.github.com/howardgrigg/BetterBoard/master/github/Readings.jpg "Readings Tab")
+![Quiz Tab](https://raw.github.com/howardgrigg/BetterBoard/master/github/Questions.jpg "Quiz Tab")
+![Add Quiz Question](https://raw.github.com/howardgrigg/BetterBoard/master/github/Add-Question.jpg "Add Quiz Question")
