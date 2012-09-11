@@ -24,7 +24,7 @@ Some of the built in features:
   - Visit http://yoursite.com/dev/build
   
 ## ScreenShots
-![Week Page](/github/Week-Page.jpg "Week Page")
-![Readings Tab](/github/Readings.jpg "Readings Tab")
-![Quiz Tab](/github/Questions.jpg "Quiz Tab")
-![Add Quiz Question](/github/Add-Question.jpg "Add Quiz Question")
+![Week Page](github/Week-Page.jpg "Week Page")
+![Readings Tab](github/Readings.jpg "Readings Tab")
+![Quiz Tab](github/Questions.jpg "Quiz Tab")
+![Add Quiz Question](github/Add-Question.jpg "Add Quiz Question")
